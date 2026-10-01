@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keyprox.github.io/sitemap.xml
